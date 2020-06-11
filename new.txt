@@ -1,3 +1,7 @@
-let's try somethin new,
+let's try  new,
 with this tutorial we will be covering pull requests together
-hpefully ther will be no ambiguuty after thios class.
+
+
+This is added by guile.
+
+And also this.
