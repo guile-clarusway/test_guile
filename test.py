@@ -1,5 +1,1 @@
-print('hello Talha')
-
-print ('This is added by guile')
-
-print ('This is for the Jenkins')
+print('hello , this is a demo for jenkins tutorial')
